@@ -10,7 +10,7 @@
     VAN ANH VU         - s401462
     SOWROV CHANDRA DAS - s396166
 
-GitHub Repository: [Add your repository link here]
+GitHub Repository: [https://github.com/who-gives-a-shit/Spot-the-Hidden-Differences-Game-by-DAN-EXT-31]
 
 Project info:
     Build a desktop application where two nearly identical images are displayed side by side. 
