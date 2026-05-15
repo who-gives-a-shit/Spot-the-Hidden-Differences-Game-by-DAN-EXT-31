@@ -1,0 +1,16 @@
+GROUP ASSIGNMENT 3
+HIT137 - Software Now
+"Spot the Hidden Differences Game by DAN/EXT 31"
+
+Lecturer: Dr. Thuseethan Selvarajah
+
+Group Name: DAN/EXT 31
+Group Members:
+JOYAL BIJU         - s400926
+VAN ANH VU         - s401462
+SOWROV CHANDRA DAS - s396166
+
+GitHub Repository: [https://github.com/who-gives-a-shit/Spot-the-Hidden-Differences-Game-by-DAN-EXT-31]
+
+Project info:
+Build a desktop application that displays two nearly identical images side by side. One image is original; the other is a programmatically altered copy that contains hidden differences. The player clicks on the modified image to locate the differences, and the application validates each click against the known difference regions.
